@@ -4,3 +4,4 @@ int hampter2 = 1 - 6;
 println(hampter2);
 int hampter3 = 5 * 6;
 println(hampter3);
+//opdracht 4.4

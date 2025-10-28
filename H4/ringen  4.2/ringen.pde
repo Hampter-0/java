@@ -9,6 +9,9 @@ int  y = 400;
 
 //L is l + b
 //rect(x,y,L,B);
+
+
+//opdracht 4.2
 strokeWeight(7);
 noFill();
 stroke(0,0,255);

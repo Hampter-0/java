@@ -2,7 +2,7 @@
 //hampter +=5;
 //print( hampter );
 
-
+//opdracht 4.3
 int hampter = 15 % 2;
 println( hampter );
 
