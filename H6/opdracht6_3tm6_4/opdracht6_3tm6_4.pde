@@ -8,5 +8,10 @@ for(int i = 12;i < 121;i+= 12){
 for (int j = 0;j < 5;j++){
   rect(67 + j *80,40,40,40);
 }
-    
+//opdracht6.5
+int teller = 1;
+for (int i = 12; i <= 120; i += 12) {
+  println(teller + " x 12 = " + i);
+  teller++;
+}
     
