@@ -10,6 +10,7 @@
 int[] temperaturen = {12,25,17,9,8,6,2};
 String[] dagen = {"maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag"};
 
+
 println(dagen[0] + ": " + temperaturen[0]);
 println(dagen[2] + ": " + temperaturen[2]);
 
